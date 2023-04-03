@@ -243,27 +243,36 @@ font-weight: 900;
 @media (max-width: 720px) {
 
         .cabecalho{
+
              padding: 10%;
-        }
 
-        .Tituloh1Main {
-   
-        } 
-
-        .link1 {
-            width: auto;
         }
 
         .cabecalho__menu{
+
             justify-content: center;
+            gap: 25px;
         }
+
+        .link1 {
+
+            width: auto;
+
+        }
+
         .principal{
+
             flex-direction: column-reverse;
             padding: 5%;
+
         }
+
         .principal{
+
           padding: auto;
+
         }
+
  
 }
 
